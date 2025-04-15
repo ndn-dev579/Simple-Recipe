@@ -1,0 +1,76 @@
+body{
+    
+    font-family: Young Serif,serif;
+    font-weight: normal;
+    line-height: 25px;
+    color:hsl(24, 5%, 18%);
+    background-color: hsl(30, 54%, 90%);
+    margin:300px;
+    
+    
+}
+#recipe{
+    padding: 50px;
+   background: hsl(0, 0%, 100%);
+   border-radius: 25px;
+   
+   
+}
+img{
+    /*display: flex;
+    justify-content: center;
+    /*padding: 40px;*/
+    border-radius: 5%; 
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 50px;
+    
+
+
+}
+
+p{
+    font-size: 16px;
+}
+ .prep{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 5%;
+    padding: 20px 20px;
+ }
+ .prep h3{
+    color:hsl(332, 51%, 32%);
+ }
+.Ingredients h2,.instr h2,.nutri h2{
+    color:#854632;
+ }
+ ul li::marker,ol li::marker{
+    color: #854632;
+    font-size:20px;
+    font-weight: bold;
+ }
+ table{
+    text-align: left;
+    border-collapse: collapse;
+    width:100%;
+   
+    
+ }
+ th,td{
+    border-bottom:1px solid #e0e0e0;
+    padding: 12px 8px;
+
+ }
+ td{
+    color:#854632;
+    font-size: large;
+ }
+ th{
+    font-weight: normal;
+ }
+ .young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
