@@ -5,7 +5,7 @@ body{
     line-height: 25px;
     color:hsl(24, 5%, 18%);
     background-color: hsl(30, 54%, 90%);
-    margin:300px;
+    
     
     
 }
@@ -13,13 +13,13 @@ body{
     padding: 50px;
    background: hsl(0, 0%, 100%);
    border-radius: 25px;
+   max-width: 500px;  /*content inside body has fixed width*/
+   margin: auto; /*body content is centered;gives automatic margin horizontally(left and right side) */
    
    
 }
-img{
-    /*display: flex;
-    justify-content: center;
-    /*padding: 40px;*/
+#recipe > img{
+    
     border-radius: 5%; 
     width: 100%;
     height: auto;
@@ -30,9 +30,6 @@ img{
 
 }
 
-p{
-    font-size: 16px;
-}
  .prep{
     background-color: hsl(330, 100%, 98%);
     border-radius: 5%;
