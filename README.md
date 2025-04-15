@@ -13,8 +13,8 @@
 
 ## Live Demo
 
-Check out the live version here:
-[https://ndn-dev579.github.io/Simple-Recipe/]
+Check out the live version [here]
+(https://ndn-dev579.github.io/Simple-Recipe/)
 
 ## How to Use
 
