@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-Check out the live version here:
+Check out the live version (here)
 [https://ndn-dev579.github.io/Simple-Recipe/]
 
 ## How to Use
